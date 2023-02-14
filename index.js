@@ -1,5 +1,4 @@
 console.log('Hello World');
 
-console.log('Hello')
-
-gbvtyucfyhg
+const age = 20 
+if 
