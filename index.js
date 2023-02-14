@@ -1,4 +1,8 @@
 console.log('Hello World');
 
 const age = 20 
-if 
+if (age >= 18) {
+    console.log('Вы совершеннолетний')
+} else {
+    console.log('Вы Не совершеннолетний')
+}
